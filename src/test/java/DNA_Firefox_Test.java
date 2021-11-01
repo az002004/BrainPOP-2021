@@ -8,7 +8,7 @@ import org.testng.annotations.*;
 
 import java.util.List;
 
-public class DNATest {
+public class DNA_Firefox_Test {
 
     WebDriver driver;
 

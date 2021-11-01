@@ -8,7 +8,7 @@ import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
 
-public class LoginTest {
+public class Login_Chrome_Test {
 
     WebDriver driver;
 
